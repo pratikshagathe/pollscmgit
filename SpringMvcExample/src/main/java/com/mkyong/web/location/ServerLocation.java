@@ -1,5 +1,5 @@
 package com.mkyong.web.location;
-
+// my first comment
 public class ServerLocation {
 // comment
 //comment 2
